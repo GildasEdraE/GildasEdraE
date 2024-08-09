@@ -2,7 +2,7 @@
 I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿
 
 ## Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/:957528736809504789)](https://discord.com/users/:957528736809504789)
+[![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
 <!--
 **GildasEdraE/GildasEdraE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
