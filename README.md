@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Everyone 
+I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿
 
 <!--
 **GildasEdraE/GildasEdraE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
