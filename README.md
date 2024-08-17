@@ -1,6 +1,6 @@
 # Introduce 
 Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿
-In GitHub, I'm Focusing at make some Issues and Suggestions at Repositories I like
+In GitHub, I'm Focusing at make some Issues and Suggestions at Repositories I Interest
 
 # Discord
 In Discord, I'am the Staff in Lucid Theme Server
