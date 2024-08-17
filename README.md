@@ -5,7 +5,7 @@ In GitHub, I'm Focusing at make some Issues and Suggestions
 # Discord
 In Discord, I'am the Staff in Lucid Theme Server
 https://discord.com/users/957528736809504789
-# Discord Presence
+### Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
 <!--
