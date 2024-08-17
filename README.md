@@ -1,7 +1,11 @@
 ## Introduce 
 Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿
+In GitHub, I'm Focusing at make some Issues and Suggestions
 
-## Discord Presence
+## Discord
+In Discord, I'am the one of Staff in Lucid Theme Server
+https://discord.com/users/957528736809504789
+# Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
 <!--
