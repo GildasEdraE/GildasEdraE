@@ -3,7 +3,7 @@ Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why al
 In GitHub, I'm Focusing at make some Issues and Suggestions at Repositories I Interest
 
 # Discord
-In Discord, I'am the Staff in Lucid Theme Server
+In Discord, I'm the Staff in Lucid Theme Server
 https://discord.com/users/957528736809504789
 ### Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
