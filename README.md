@@ -1,5 +1,5 @@
 # Introduce 
-Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿, but If You ask "Are you an Introvert", I'm Gonna Say "Yes, I'm"
+Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿, but If You ask "Are you an Introvert", I'm Gonna Say "Yes, I'm".
 In GitHub, I'm Focusing at make some Issues and Suggestions at Repositories I Interest
 
 # Discord
