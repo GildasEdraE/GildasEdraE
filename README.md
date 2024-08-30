@@ -5,7 +5,7 @@ In GitHub, I'm Focusing at make some Issues and Suggestions at Repositories I In
 In Discord, I'm the Staff in Lucid Theme Server
 https://discord.com/users/957528736809504789
 ### 4n-n Server
-![Discord Banner 2](https://discord.com/api/guilds/1192112901339754546/widget.png?style=banner2)
+[![Discord Banner 2](https://discord.com/api/guilds/1192112901339754546/widget.png?style=banner2)](https://discord.gg/TdRpWENfzG)
 ### Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
