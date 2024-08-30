@@ -8,7 +8,7 @@ https://discord.com/users/957528736809504789
 ### Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
-
+# Spotify Recently Played
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31tvia7rvkqu6esj6mkxlfo5c374)](https://open.spotify.com/user/31tvia7rvkqu6esj6mkxlfo5c374?si=muz1pMj9RIuP6WJHptcL0Q)
 <!--
 **GildasEdraE/GildasEdraE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
