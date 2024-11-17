@@ -14,4 +14,4 @@ https://discord.com/users/957528736809504789
 ### Spotify Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tvia7rvkqu6esj6mkxlfo5c374&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ### Spotify Recently Played
-![Alt-text](https://spotify-recently-played-readme.vercel.app/api?user=31tvia7rvkqu6esj6mkxlfo5c374&unique={true|1|on|yes})(https://open.spotify.com/user/31tvia7rvkqu6esj6mkxlfo5c374?si=F7jXzX7oSy24X-UU3TUnag)
+![Alt-text](https://spotify-recently-played-readme.vercel.app/api?user=31tvia7rvkqu6esj6mkxlfo5c374&unique={true|1|on|yes})](https://open.spotify.com/user/31tvia7rvkqu6esj6mkxlfo5c374?si=F7jXzX7oSy24X-UU3TUnag)
