@@ -3,11 +3,7 @@ Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. That's it. Yeahh,
 > Just a Student who is always interested in something but with 90% laziness
 
 # Discord
-In Discord, I'm the Staff in Lucid Theme Server, but yk I'm just a introvert guy
-https://discord.com/users/957528736809504789
-### 4n-n Server
-[![Discord Banner 2](https://discord.com/api/guilds/1192112901339754546/widget.png?style=banner2)](https://discord.gg/TdRpWENfzG)
-
+In Discord, I'm the Staff in Lucid Theme Server. 
 ### Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/957528736809504789)](https://discord.com/users/957528736809504789)
 
