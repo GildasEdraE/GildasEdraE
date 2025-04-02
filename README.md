@@ -1,5 +1,6 @@
-# Introduce 
-Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. I don't know why all of my Friends are think I'm is Quiet Type🗿, but If You ask "Are you an Introvert", I'm Gonna Say "Yes, I'm".
+# About Me
+Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. That's it. Yeahh, 
+> Just a Person who is always interested in something but with 90% laziness
 
 # Discord
 In Discord, I'm the Staff in Lucid Theme Server, but yk I'm just a introvert guy
