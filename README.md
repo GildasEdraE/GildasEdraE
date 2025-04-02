@@ -1,6 +1,6 @@
 # About Me
 Hello Everyone, I'm Rea Lux(-Null-), I'm Only a Student now. That's it. Yeahh, 
-> Just a Person who is always interested in something but with 90% laziness
+> Just a Student who is always interested in something but with 90% laziness
 
 # Discord
 In Discord, I'm the Staff in Lucid Theme Server, but yk I'm just a introvert guy
